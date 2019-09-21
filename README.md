@@ -1,2 +1,2 @@
 # BMI
-Aplikasi Android Penghitung BMI (Body Max Index)
+Aplikasi Android Penghitung BMI (Body Mass Index)
